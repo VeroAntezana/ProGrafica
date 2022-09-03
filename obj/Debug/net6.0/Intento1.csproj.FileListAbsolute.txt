@@ -1,0 +1,15 @@
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\bin\Debug\net6.0\Intento1.exe
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\bin\Debug\net6.0\Intento1.deps.json
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\bin\Debug\net6.0\Intento1.runtimeconfig.json
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\bin\Debug\net6.0\Intento1.dll
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\bin\Debug\net6.0\Intento1.pdb
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.csproj.AssemblyReference.cache
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.AssemblyInfoInputs.cache
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.AssemblyInfo.cs
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.csproj.CoreCompileInputs.cache
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.dll
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\refint\Intento1.dll
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.pdb
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\Intento1.genruntimeconfig.cache
+D:\Veronica\Programacion Grafica\OpenTk\Intento1\obj\Debug\net6.0\ref\Intento1.dll
